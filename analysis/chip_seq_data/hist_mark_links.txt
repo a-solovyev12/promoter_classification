@@ -1,0 +1,7 @@
+https://www.encodeproject.org/files/ENCFF000BVZ/@@download/ENCFF000BVZ.bam
+https://www.encodeproject.org/files/ENCFF000BDP/@@download/ENCFF000BDP.bam
+https://www.encodeproject.org/files/ENCFF000BDQ/@@download/ENCFF000BDQ.bam
+https://www.encodeproject.org/files/ENCFF000AHD/@@download/ENCFF000AHD.bam
+https://www.encodeproject.org/files/ENCFF000AHC/@@download/ENCFF000AHC.bam
+https://www.encodeproject.org/files/ENCFF000AQZ/@@download/ENCFF000AQZ.bam
+https://www.encodeproject.org/files/ENCFF000ARA/@@download/ENCFF000ARA.bam
